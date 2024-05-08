@@ -21,6 +21,8 @@ namespace MSJ
             Console.WriteLine("Si me apareció lo que escribió la Ana Lau");
 
             Console.WriteLine("soy celeste, funciona plis o me mato");
+
+            Console.WriteLine("Funcina ya por favorrr");
         }
     }
 }
