@@ -11,6 +11,7 @@ namespace MSJ
         static void Main(string[] args)
         {
             Console.WriteLine("Hola nueva prueba");
+            Console.WriteLine("Hola soy Celeste");    
         }
     }
 }
